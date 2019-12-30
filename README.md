@@ -1,6 +1,6 @@
 # ProjectEulerTaskArchive
 
-- [] 1
+- [x] 1
 - [] 2
 - [] 3
 - [] 4
